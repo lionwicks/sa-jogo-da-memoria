@@ -20,6 +20,8 @@ class Program
            int l1 = Ler("Linha (1-4): ") - 1;
            int c1 = Ler("Coluna (1-4): ") - 1;
            if (!PosicaoValida(l1,c1)) continue;
+           descobertas[l1,c1] = true;
+            
 
 
 
