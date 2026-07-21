@@ -36,6 +36,12 @@ class Program
                 Console.WriteLine("Acertou o par!");
                 pares++;
             }
+             else
+            {
+                Console.WriteLine("Errou!");
+                descobertas[l1,c1] = false;
+                descobertas[l2,c2] = false;
+            }
 
 
             
