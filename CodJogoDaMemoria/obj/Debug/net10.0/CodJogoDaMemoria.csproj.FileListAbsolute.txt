@@ -1,0 +1,5 @@
+C:\Users\j02\Desktop\JogoDaMemoria\CodJogoDaMemoria\obj\Debug\net10.0\CodJogoDaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Desktop\JogoDaMemoria\CodJogoDaMemoria\obj\Debug\net10.0\CodJogoDaMemoria.AssemblyInfoInputs.cache
+C:\Users\j02\Desktop\JogoDaMemoria\CodJogoDaMemoria\obj\Debug\net10.0\CodJogoDaMemoria.AssemblyInfo.cs
+C:\Users\j02\Desktop\JogoDaMemoria\CodJogoDaMemoria\obj\Debug\net10.0\CodJogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\j02\Desktop\JogoDaMemoria\CodJogoDaMemoria\obj\Debug\net10.0\CodJogoDaMemoria.sourcelink.json
