@@ -30,6 +30,7 @@ class Program
                  descobertas[l2,c2] = true;
                   Console.Clear();
                   MostrarTabuleiro();
+                    jogadas++;
 
 
             
