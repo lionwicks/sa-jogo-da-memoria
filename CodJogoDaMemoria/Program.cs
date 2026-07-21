@@ -18,6 +18,8 @@ class Program
           Console.WriteLine("Pares encontrados: " + pares);
            Console.WriteLine("\nPrimeira carta");
            int l1 = Ler("Linha (1-4): ") - 1;
+           int c1 = Ler("Coluna (1-4): ") - 1;
+
 
 
 
