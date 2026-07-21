@@ -14,6 +14,9 @@ class Program
      {
         Console.Clear();
         MostrarTabuleiro();
+         Console.WriteLine("\nJogadas: " + jogadas);
+         
+
 
 
      }
