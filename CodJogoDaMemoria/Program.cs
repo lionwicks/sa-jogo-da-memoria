@@ -9,5 +9,6 @@ class Program
         static int pares = 0;
          static void Main()
       {
+          CriarTabuleiro();
 
 }
