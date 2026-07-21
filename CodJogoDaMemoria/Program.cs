@@ -31,6 +31,11 @@ class Program
                   Console.Clear();
                   MostrarTabuleiro();
                     jogadas++;
+                      if (tabuleiro[l1,c1] == tabuleiro[l2,c2] && !(l1 == l2 && c1 == c2))
+                        {
+                Console.WriteLine("Acertou o par!");
+                pares++;
+            }
 
 
             
