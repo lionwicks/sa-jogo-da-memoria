@@ -15,7 +15,9 @@ class Program
         Console.Clear();
         MostrarTabuleiro();
          Console.WriteLine("\nJogadas: " + jogadas);
-         
+          Console.WriteLine("Pares encontrados: " + pares);
+           Console.WriteLine("\nPrimeira carta");
+
 
 
 
