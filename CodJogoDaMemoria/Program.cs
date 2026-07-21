@@ -7,4 +7,6 @@ class Program
     static bool[,] descobertas = new bool[4,4];
     static int jogadas = 0;
         static int pares = 0;
+         static void Main()
+
 }
