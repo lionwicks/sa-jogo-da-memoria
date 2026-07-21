@@ -11,4 +11,13 @@ class Program
       {
           CriarTabuleiro();
      while (pares < 8)
+     {
+        Console.Clear();
+        MostrarTabuleiro();
+
+
+     }
+
+    
+
 }
