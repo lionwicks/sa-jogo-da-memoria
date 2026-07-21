@@ -28,6 +28,7 @@ class Program
                int c2 = Ler("Coluna (1-4): ") - 1;
                 if (!PosicaoValida(l2,c2)) continue;
                  descobertas[l2,c2] = true;
+                  Console.Clear();
 
 
             
