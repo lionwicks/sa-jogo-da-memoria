@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\j02\\Desktop\\JogoDaMemoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj": {}
+    "C:\\Users\\j02\\Desktop\\sa-jogo-da-memoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\j02\\Desktop\\JogoDaMemoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj": {
+    "C:\\Users\\j02\\Desktop\\sa-jogo-da-memoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\j02\\Desktop\\JogoDaMemoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj",
+        "projectUniqueName": "C:\\Users\\j02\\Desktop\\sa-jogo-da-memoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj",
         "projectName": "CodJogoDaMemoria",
-        "projectPath": "C:\\Users\\j02\\Desktop\\JogoDaMemoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj",
+        "projectPath": "C:\\Users\\j02\\Desktop\\sa-jogo-da-memoria\\CodJogoDaMemoria\\CodJogoDaMemoria.csproj",
         "packagesPath": "C:\\Users\\j02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\j02\\Desktop\\JogoDaMemoria\\CodJogoDaMemoria\\obj\\",
+        "outputPath": "C:\\Users\\j02\\Desktop\\sa-jogo-da-memoria\\CodJogoDaMemoria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j02\\AppData\\Roaming\\NuGet\\NuGet.Config"
