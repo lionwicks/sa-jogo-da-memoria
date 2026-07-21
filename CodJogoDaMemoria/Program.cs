@@ -25,7 +25,7 @@ class Program
             MostrarTabuleiro();
              Console.WriteLine("\nSegunda carta");
               int l2 = Ler("Linha (1-4): ") - 1;
-              
+               int c2 = Ler("Coluna (1-4): ") - 1;
 
 
             
