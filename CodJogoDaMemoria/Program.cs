@@ -44,6 +44,60 @@ class Program
             }
               Console.WriteLine("Pressione ENTER...");
             Console.ReadLine();
+              }
+        Console.Clear();
+        MostrarTabuleiro();
+        Console.WriteLine("\nPARABÉNS!");
+        Console.WriteLine("Você encontrou todos os pares.");
+        Console.WriteLine("Total de jogadas: " + jogadas);
+    }
+
+    static void CriarTabuleiro()
+    {
+        List<string> cartas = new List<string> { "A","A", "B","B", "C","C", "D","D", "E","E", "F","F", "G","G", "H","H" };
+        Random r = new Random();
+        for(int i = 0; i < 4; i++)
+        {
+            for(int j = 0; j < 4; j++)
+            {
+                int pos = r.Next(cartas.Count);
+                tabuleiro[i,j] = cartas[pos];
+                cartas.RemoveAt(pos);
+            }
+        }
+    }
+
+    static void MostrarTabuleiro()
+    {
+        Console.WriteLine("  1  2  3  4");
+        for(int i = 0; i < 4; i++)
+        {
+            Console.Write((i+1)+" ");
+            for(int j = 0; j < 4; j++)
+            {
+                if(descobertas[i,j])
+                    Console.Write(" "+tabuleiro[i,j]+" ");
+                else
+                    Console.Write(" * ");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    static int Ler(string texto)
+    {
+        Console.Write(texto);
+        return int.Parse(Console.ReadLine());
+    }
+
+    static bool PosicaoValida(int l, int c)
+    {
+        if(l < 0 || l > 3 || c < 0 || c > 3) return false;
+        if(descobertas[l,c]) return false;
+        return true;
+    }
+}
+
 
 
             
@@ -54,8 +108,8 @@ class Program
 
 
 
-     }
+     
 
     
 
-}
+
