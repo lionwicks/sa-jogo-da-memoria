@@ -10,5 +10,5 @@ class Program
          static void Main()
       {
           CriarTabuleiro();
-
+     while (pares < 8)
 }
