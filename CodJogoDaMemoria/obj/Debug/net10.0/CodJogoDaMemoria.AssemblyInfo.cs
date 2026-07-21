@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodJogoDaMemoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d7e3737ac17bbbf0bd2c175b86c05a7558eea3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodJogoDaMemoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodJogoDaMemoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
