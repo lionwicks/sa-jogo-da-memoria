@@ -95,6 +95,7 @@ class Program
         if(l < 0 || l > 3 || c < 0 || c > 3) return false;
         if(descobertas[l,c]) return false;
         return true;
+        
     }
 }
 
