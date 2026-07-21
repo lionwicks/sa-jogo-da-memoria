@@ -29,6 +29,7 @@ class Program
                 if (!PosicaoValida(l2,c2)) continue;
                  descobertas[l2,c2] = true;
                   Console.Clear();
+                  MostrarTabuleiro();
 
 
             
