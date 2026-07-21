@@ -8,5 +8,6 @@ class Program
     static int jogadas = 0;
         static int pares = 0;
          static void Main()
+      {
 
 }
