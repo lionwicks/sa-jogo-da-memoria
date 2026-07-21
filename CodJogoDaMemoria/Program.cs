@@ -42,6 +42,8 @@ class Program
                 descobertas[l1,c1] = false;
                 descobertas[l2,c2] = false;
             }
+              Console.WriteLine("Pressione ENTER...");
+            Console.ReadLine();
 
 
             
