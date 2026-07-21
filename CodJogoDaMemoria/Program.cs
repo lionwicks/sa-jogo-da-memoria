@@ -23,6 +23,8 @@ class Program
            descobertas[l1,c1] = true;
             Console.Clear();
             MostrarTabuleiro();
+             Console.WriteLine("\nSegunda carta");
+
 
 
             
